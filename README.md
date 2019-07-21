@@ -2,6 +2,11 @@
 
 Based on this tutorial : [Feature Based Panoramic Image Stitching](https://www.mathworks.com/help/vision/examples/feature-based-panoramic-image-stitching.html)
 
+
+### Demo:
+[![Panorama from multiple images](http://img.youtube.com/vi/HDVePPQTmxw/0.jpg)](http://www.youtube.com/watch?v=HDVePPQTmxw "")
+
+
 ### Requirements : 
 
 - Python 3.x
